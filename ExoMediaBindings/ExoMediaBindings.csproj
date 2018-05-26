@@ -81,7 +81,7 @@
   <ItemGroup>
     <None Include="Jars\AboutJars.txt" />
     <None Include="Additions\AboutAdditions.txt" />
-    <LibraryProjectZip Include="Jars\exomedia-4.1.0.aar" />
+    <LibraryProjectZip Include="Jars\exomedia-4.2.0.aar" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
